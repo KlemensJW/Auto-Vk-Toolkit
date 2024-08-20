@@ -528,6 +528,9 @@
     <ClInclude Include="..\..\auto_vk_toolkit\include\orbit_camera.hpp">
       <Filter>auto_vk_toolkit_includes\utils</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\auto_vk\include\avk\vma_utils.hpp">
+      <Filter>auto_vk_includes</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="precompiled_headers">

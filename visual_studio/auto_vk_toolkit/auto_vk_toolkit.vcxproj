@@ -343,6 +343,7 @@
     <ClInclude Include="..\..\auto_vk\include\avk\vk_utils.hpp" />
     <ClInclude Include="..\..\auto_vk\include\avk\vk_utils2.hpp" />
     <ClInclude Include="..\..\auto_vk\include\avk\vma_handle.hpp" />
+    <ClInclude Include="..\..\auto_vk\include\avk\vma_utils.hpp" />
     <ClInclude Include="..\..\auto_vk\include\avk\vulkan_helper_functions.hpp" />
     <ClInclude Include="..\..\auto_vk_toolkit\include\animation.hpp" />
     <ClInclude Include="..\..\auto_vk_toolkit\include\bezier_curve.hpp" />
